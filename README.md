@@ -1,3 +1,7 @@
+![image](https://github.com/kianakermani/react-tic-tac-toe/assets/83605581/1e01f376-3f9a-4681-9dea-953723c8f1fb)
+![image](https://github.com/kianakermani/react-tic-tac-toe/assets/83605581/f96d6bca-17d1-4488-b076-8128035d202b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
